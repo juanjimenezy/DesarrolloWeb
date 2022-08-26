@@ -1,0 +1,12 @@
+body {background-color: rgb(218, 184, 172);}
+
+
+.miClase {
+    background-color: cadetblue;
+    font-size: 20px;
+}
+
+#id1{
+    background-color: black;
+    color: aliceblue;
+}
